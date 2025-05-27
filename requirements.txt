@@ -1,1 +1,6 @@
-
+# requirements.txt
+colorama
+rich
+python-whois
+dnspython
+requests
